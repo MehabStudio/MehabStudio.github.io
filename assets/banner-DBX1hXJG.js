@@ -1,0 +1,1 @@
+import{r as e}from"./index-iQ0fwKNe.js";import{t}from"./ServicePage-BwTbjZO9.js";var n=e(),r=()=>(0,n.jsx)(t,{slug:`banner`});export{r as component};
